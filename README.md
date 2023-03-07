@@ -14,4 +14,4 @@ Fiches récapitulatives des principales notions du framework Django.
 [L'interface d'administration](interface-administration.md)  
 [Les formulaires](les-formulaires.md)  
 [Les vues fondées sur les classes](les-vues-fondees-sur-les-classes.md)  
-[Les vues fondées sur les classes](les-vues-fondees-sur-les-classes.md)  
+[Use-the-email-field-as-username-in-Django](Use-the-email-field-as-username-in-Django.md)  
