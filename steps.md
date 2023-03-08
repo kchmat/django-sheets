@@ -26,3 +26,5 @@
 
   # settings.py
 AUTH_USER_MODEL = 'users.User'
+
+10- copy model.py froms users to users project 
