@@ -38,3 +38,6 @@ AUTH_USER_MODEL = 'users.User'
 
 14- Création du modèle pour les applications
 
+15- création du dossier Templates dnas la source du projet , et modifier la valeur dans setting pour pointer sur ce dernier
+16- creation de fichier urls.py par application 
+
