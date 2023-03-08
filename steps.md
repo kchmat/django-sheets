@@ -41,3 +41,5 @@ AUTH_USER_MODEL = 'users.User'
 15- création du dossier Templates dnas la source du projet , et modifier la valeur dans setting pour pointer sur ce dernier
 16- creation de fichier urls.py par application 
 
+17-creation des vues fondées sur les classes et CBV(class) , et FBV(function)
+
