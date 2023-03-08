@@ -28,3 +28,10 @@
 AUTH_USER_MODEL = 'users.User'
 
 10- copy model.py froms users to users project 
+
+11-python manage.py makemigrations
+12-python manage.py migrate
+
+
+13-python manage.py createsuperuser
+
