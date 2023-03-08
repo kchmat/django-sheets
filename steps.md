@@ -35,3 +35,6 @@ AUTH_USER_MODEL = 'users.User'
 
 13-python manage.py createsuperuser
 
+
+14- Création du modèle pour les applications
+
